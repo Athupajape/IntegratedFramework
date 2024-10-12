@@ -4,7 +4,6 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="org.testing.TestScripts.TC1"/>
-     <!--
       <class name="org.testing.TestScripts.TC2"/>
       <class name="org.testing.TestScripts.TC3"/>
       <class name="org.testing.TestScripts.TC4"/>
@@ -22,7 +21,6 @@
       <class name="org.testing.TestScripts.TestCase8_GetParticularMethodDummy"/>
       <class name="org.testing.TestScripts.TestCase9_PutMethodDummy"/> 
       <class name="org.testing.TestScripts.TestCase10_DeleteMethodDummy"/> 
-       Test -->
     </classes>
   </test> 
 </suite> <!-- Suite -->
