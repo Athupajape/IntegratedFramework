@@ -22,5 +22,5 @@
       <class name="org.testing.TestScripts.TestCase9_PutMethodDummy"/> 
       <class name="org.testing.TestScripts.TestCase10_DeleteMethodDummy"/> 
     </classes>
-  </test> 
+  </test> <!-- Test -->
 </suite> <!-- Suite -->
